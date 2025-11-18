@@ -38,7 +38,7 @@ team_settings:
     enable_host_users: true
     enable_software_inventory: true
   webhook_settings:
-    failing_policies_webhook: true
+    failing_policies_webhook:
       enable_failing_policies_webhook: true
       destination_url: https://webhook.site/60873b45-7cd5-43f6-8284-be1f1636d42c
       host_batch_size: 0
