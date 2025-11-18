@@ -38,4 +38,3 @@ team_settings:
 software:
   packages:
     - path: ../lib/macos/software/zoom.yml
-      setup_experience: true
